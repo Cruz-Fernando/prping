@@ -13,7 +13,7 @@
 ; 9. Modo Supervivencia - ✓ RESUELTO
 ;
 ; ********************************************
-
+;V1.0 - Versión inicial del proyecto
 ORG 100H
 .MODEL SMALL
 .STACK 100H
