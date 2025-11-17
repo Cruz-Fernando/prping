@@ -69,7 +69,7 @@ ORG 100H
     TEXTO_MENU_1      DB 'G - MODO CLASICO (5 PUNTOS) $'
     TEXTO_MENU_2      DB 'B - MODO SUPERVIVENCIA      $'
     TEXTO_MENU_3      DB 'N - SALIR                   $'
-     
+    
     TEXTO_REINICIAR   DB 'PRESIONE R PARA REPETIR $'
     TEXTO_SALIR       DB 'PRESIONE N PARA SALIR   $'
     TEXTO_TIEMPO      DB 'TIEMPO: $'
