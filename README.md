@@ -195,5 +195,4 @@ Creadores del Pong original (Atari, 1972)
 
 Colaboradores y entusiastas
 
-<div align="center">
 Si el proyecto te acompañó un rato, deja una estrella ⭐
